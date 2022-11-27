@@ -3,18 +3,33 @@
     <button>SIGN-UP NOW!</button>
     <div class="follow-section">
       <span>FOLLOW US</span>
-      <img src="@/img/footer-facebook.png" alt="">
-      <img src="@/img/footer-twitter.png" alt="">
-      <img src="@/img/footer-youtube.png" alt="">
-      <img src="@/img/footer-pinterest.png" alt="">
-      <img src="@/img/footer-periscope.png" alt="">
+      <img
+        src="@/img/footer-facebook.png"
+        alt=""
+      >
+      <img
+        src="@/img/footer-twitter.png"
+        alt=""
+      >
+      <img
+        src="@/img/footer-youtube.png"
+        alt=""
+      >
+      <img
+        src="@/img/footer-pinterest.png"
+        alt=""
+      >
+      <img
+        src="@/img/footer-periscope.png"
+        alt=""
+      >
     </div>
   </footer>
 </template>
 
 <script>
 export default {
-
+  name: 'FooterPage',
 };
 </script>
 

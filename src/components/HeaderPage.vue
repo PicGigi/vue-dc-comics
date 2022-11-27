@@ -1,6 +1,9 @@
 <template>
   <header>
-    <img src="@/img/dc-logo.png" alt="DC Logo">
+    <img
+      src="@/img/dc-logo.png"
+      alt="DC Logo"
+    >
     <ul>
       <li>CHARACTERS</li>
       <li>COMICS</li>
@@ -18,7 +21,7 @@
 
 <script>
 export default {
-
+  name: 'HeaderPage',
 };
 </script>
 

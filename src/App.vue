@@ -1,8 +1,8 @@
 <template>
   <div>
-    <HeaderPage></HeaderPage>
-    <MainPage></MainPage>
-    <FooterPage></FooterPage>
+    <HeaderPage />
+    <MainPage />
+    <FooterPage />
   </div>
 </template>
 
